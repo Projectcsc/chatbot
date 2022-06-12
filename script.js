@@ -1,5 +1,6 @@
 function talk(){
   var know = {
+        "Contact no": "044",
 	"mess":"We offer high quality foods",
 	"hostel":"Hostel facilities available for both boys and girls",
 	"mode":"Online mode, ofline mode",
