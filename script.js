@@ -12,7 +12,7 @@ function talk(){
 	"new joining": "Welcome to our college.Have a visit to our college",
 	"fees" :"Please log in through Students login to view fees details ",
 	"hi" : "Hello,J.A.R.V.I.S Here.Looking forward help you :)",
-    "Hi" : "Hello,J.A.R.V.I.S Here.Looking forward help you :)",
+    "Hi" : "Hello,Enggbot Here.Looking forward help you :)",
     "How are you" : "Good :)",
     "What can i do for you" : "Please Give us A Subscribe.",
     "ok" : "Thank You So Much <3",
